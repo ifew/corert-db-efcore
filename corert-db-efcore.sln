@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "corert-db-efcore", "corert-db-efcore.csproj", "{9AD143DA-9F0C-46C0-B794-B7E3B02B4EBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AD143DA-9F0C-46C0-B794-B7E3B02B4EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD143DA-9F0C-46C0-B794-B7E3B02B4EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD143DA-9F0C-46C0-B794-B7E3B02B4EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD143DA-9F0C-46C0-B794-B7E3B02B4EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
